@@ -5,7 +5,7 @@ Script de GNUplot para dibujar una gráfica por países de ingresos y gastos en 
 
 Los datos son los que aparecen en la columna "Charges for the use of intellectual property" de la tabla 5.13 de los "World Development Indicators" del Banco Mundial, http://wdi.worldbank.org/table/5.13#
 
-Los datos se corrresponden, según la propia definición del informe, con la siguiente definición:
+Los datos se corrresponden, según la propia definición del informe, con los siguientes conceptos:
 
 	"Charges for the use of intellectual property are payments and receipts between
 	residents and nonresidents for the authorized use of proprietary rights (such as
