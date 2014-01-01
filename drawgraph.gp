@@ -28,6 +28,8 @@ set title "Ingresos y pagos por uso de propiedad intelectual en millones de dól
 
 set key autotitle columnheader left
 
+set label "© Allan Psicobyte. Some Rights Reserved: CC BY-SA 3.0" at 120,-65000 right
+
 set style data histograms
 set style histogram rowstacked
 set style fill transparent solid 0.25
