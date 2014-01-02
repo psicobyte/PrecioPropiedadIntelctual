@@ -18,3 +18,4 @@ Los datos se corrresponden, según la propia definición del informe, con los si
 
 Se han ignorado las entradas para las que no está consignado el valor en Receipts o Payments, por lo que sólo se muestran aquellos países para los que existen ambos datos.
 
+Más detalles aquí: http://www.psicobyte.com/articulo/el_pecio_de_la_propiedad_intelectual
